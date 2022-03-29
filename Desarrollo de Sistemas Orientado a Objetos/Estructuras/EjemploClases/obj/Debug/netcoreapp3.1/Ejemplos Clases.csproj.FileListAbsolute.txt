@@ -1,0 +1,13 @@
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\bin\Debug\netcoreapp3.1\Ejemplos Clases.exe
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\bin\Debug\netcoreapp3.1\Ejemplos Clases.deps.json
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\bin\Debug\netcoreapp3.1\Ejemplos Clases.runtimeconfig.json
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\bin\Debug\netcoreapp3.1\Ejemplos Clases.runtimeconfig.dev.json
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\bin\Debug\netcoreapp3.1\Ejemplos Clases.dll
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\bin\Debug\netcoreapp3.1\Ejemplos Clases.pdb
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\obj\Debug\netcoreapp3.1\Ejemplos Clases.csprojAssemblyReference.cache
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\obj\Debug\netcoreapp3.1\Ejemplos Clases.AssemblyInfoInputs.cache
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\obj\Debug\netcoreapp3.1\Ejemplos Clases.AssemblyInfo.cs
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\obj\Debug\netcoreapp3.1\Ejemplos Clases.csproj.CoreCompileInputs.cache
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\obj\Debug\netcoreapp3.1\Ejemplos Clases.dll
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\obj\Debug\netcoreapp3.1\Ejemplos Clases.pdb
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\Ejemplos Clases\obj\Debug\netcoreapp3.1\Ejemplos Clases.genruntimeconfig.cache

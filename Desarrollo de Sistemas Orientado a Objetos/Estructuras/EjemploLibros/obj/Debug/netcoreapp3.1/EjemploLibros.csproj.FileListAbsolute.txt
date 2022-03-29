@@ -1,0 +1,13 @@
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\bin\Debug\netcoreapp3.1\EjemploLibros.exe
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\bin\Debug\netcoreapp3.1\EjemploLibros.deps.json
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\bin\Debug\netcoreapp3.1\EjemploLibros.runtimeconfig.json
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\bin\Debug\netcoreapp3.1\EjemploLibros.runtimeconfig.dev.json
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\bin\Debug\netcoreapp3.1\EjemploLibros.dll
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\bin\Debug\netcoreapp3.1\EjemploLibros.pdb
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\obj\Debug\netcoreapp3.1\EjemploLibros.csprojAssemblyReference.cache
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\obj\Debug\netcoreapp3.1\EjemploLibros.AssemblyInfoInputs.cache
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\obj\Debug\netcoreapp3.1\EjemploLibros.AssemblyInfo.cs
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\obj\Debug\netcoreapp3.1\EjemploLibros.csproj.CoreCompileInputs.cache
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\obj\Debug\netcoreapp3.1\EjemploLibros.dll
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\obj\Debug\netcoreapp3.1\EjemploLibros.pdb
+D:\TSDS\Desarrollo de Sistemas Orientado a Objetos\Estructuras\EjemploLibros\obj\Debug\netcoreapp3.1\EjemploLibros.genruntimeconfig.cache
