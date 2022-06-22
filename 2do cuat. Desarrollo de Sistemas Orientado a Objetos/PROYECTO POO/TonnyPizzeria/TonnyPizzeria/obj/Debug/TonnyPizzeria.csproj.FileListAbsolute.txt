@@ -1,0 +1,13 @@
+C:\Users\Andres Negrette\Desktop\TonnyPizzeria\TonnyPizzeria\bin\Debug\TonnyPizzeria.exe.config
+C:\Users\Andres Negrette\Desktop\TonnyPizzeria\TonnyPizzeria\bin\Debug\TonnyPizzeria.exe
+C:\Users\Andres Negrette\Desktop\TonnyPizzeria\TonnyPizzeria\bin\Debug\TonnyPizzeria.pdb
+C:\Users\Andres Negrette\Desktop\TonnyPizzeria\TonnyPizzeria\obj\Debug\TonnyPizzeria.csprojAssemblyReference.cache
+C:\Users\Andres Negrette\Desktop\TonnyPizzeria\TonnyPizzeria\obj\Debug\TonnyPizzeria.Form1.resources
+C:\Users\Andres Negrette\Desktop\TonnyPizzeria\TonnyPizzeria\obj\Debug\TonnyPizzeria.Properties.Resources.resources
+C:\Users\Andres Negrette\Desktop\TonnyPizzeria\TonnyPizzeria\obj\Debug\TonnyPizzeria.csproj.GenerateResource.cache
+C:\Users\Andres Negrette\Desktop\TonnyPizzeria\TonnyPizzeria\obj\Debug\TonnyPizzeria.csproj.CoreCompileInputs.cache
+C:\Users\Andres Negrette\Desktop\TonnyPizzeria\TonnyPizzeria\obj\Debug\TonnyPizzeria.exe
+C:\Users\Andres Negrette\Desktop\TonnyPizzeria\TonnyPizzeria\obj\Debug\TonnyPizzeria.pdb
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\PROYECTO POO\TonnyPizzeria\TonnyPizzeria\obj\Debug\TonnyPizzeria.csprojAssemblyReference.cache
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\PROYECTO POO\TonnyPizzeria\TonnyPizzeria\obj\Debug\TonnyPizzeria.exe
+C:\Users\andre\Mi unidad\Tecnicatura Superior en Desarrollo de Software\2do cuat. Desarrollo de Sistemas Orientado a Objetos\PROYECTO POO\TonnyPizzeria\TonnyPizzeria\obj\Debug\TonnyPizzeria.pdb
